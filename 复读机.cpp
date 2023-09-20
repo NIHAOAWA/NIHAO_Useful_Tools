@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int user
+string user;
 int main(){
   while(true){
       cout<<"你好凑东西的项目，复读机来看看吧"<<endl;
